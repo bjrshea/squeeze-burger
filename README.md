@@ -29,7 +29,7 @@ Squeeze Burger Truck is the best burger in California. This application tracks w
 
 * Git
 * HTML
-* Sass
+* CSS/Sass
 * JavaScript
 * React
 * Redux
